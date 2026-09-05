@@ -1,6 +1,7 @@
 # IBM Data Analyst Capstone Project
 
 ## Stack Overflow Developer Survey — Technology Trends & Demographics
+![Stack Overflow Technology Trends Dashboard](images/technology_trends_dashboard.png)
 
 An end-to-end data analytics project completed as part of the **IBM Data Analyst Professional Certificate**.
 
