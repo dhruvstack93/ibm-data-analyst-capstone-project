@@ -107,12 +107,11 @@ The analysis used multiple visualization techniques, including:
 - Pie charts
 - Stacked charts
 
-### 6. Dashboard
+## Dashboard
 
-The final analysis was communicated through an interactive dashboard created using **Google Data Studio (Looker Studio)**.
+The project includes a dashboard created using **Google Data Studio (Looker Studio)**.
 
-[View the dashboard/report](../dashboards/Stack_Overflow_Developer_Survey_-_Technology_Trends_&_Demographics%20(2).pdf)
-
+[View Dashboard Report](dashboards/stackoverflow_technology_trends_dashboard.pdf)
 ---
 
 # Key Findings
