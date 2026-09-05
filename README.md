@@ -164,7 +164,7 @@ ibm-data-analyst-capstone-project/
 │
 ├── dashboards/
 │   ├── README.md
-│   └── Stack_Overflow_Developer_Survey_-_Technology_Trends_&_Demographics (2).pdf
+│   └── stackoverflow_technology_trends_dashboard.pdf
 │
 ├── notebooks/
 │   ├── README.md
